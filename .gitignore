@@ -1,0 +1,22 @@
+# Local tooling configuration
+.claude/
+CLAUDE.md
+.mcp.json
+
+# Local drafts and archive
+docs/old/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies, builds and OS files
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
