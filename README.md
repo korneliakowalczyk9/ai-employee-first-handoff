@@ -20,11 +20,11 @@ Someone who is familiar with tools like ChatGPT but has never delegated meaningf
 
 ## Planned prototype
 
-A small general AI employee workspace with one working scene, in which Maya delegates inbox triage (other tasks are not built): the AI sorts and flags requests and drafts replies. Everything stays private and read-only until Maya explicitly authorises one specific acknowledgement to be sent. That approval covers that single action only.
+A small general AI employee workspace with one working scene, in which Maya delegates inbox triage (other tasks are not built): the AI sorts and flags requests and drafts replies. Everything stays private and read-only until Maya explicitly authorises a send. Either of two specific replies can be sent, and each needs its own separate approval. An approval covers that single action only.
 
 Control is shown through a plan before action, a visible activity log and a stop control. Sending cannot be undone, and the interface says so.
 
-![Results and drafts wireframe](design/wireframes/07-results-and-drafts.png)
+![Wireframes overview](design/wireframes/00-overview.png)
 
 All wireframes are in [design/](design/README.md).
 

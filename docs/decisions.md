@@ -19,5 +19,11 @@ One line each: the choice, then why.
 15. **The send recipient is a fictional colleague.** The AI never shares outside the company, so the send must not contradict that.
 16. **No generic "AI can make mistakes" line.** It would hint at the planted error and spoil the test.
 17. **Maya can press Continue after a stop.** Otherwise an early stop ends the scene before the draft and send, and we learn nothing.
+18. **A stop in the last stage lets the work finish.** The results appear, nothing is sent and there is no Continue. This is an exception to the next-checkpoint rule in decision 10. The screen says so.
+19. **Only the replies to Lena and Sam can be sent.** Each one answers its request with a direct reply. Lena's says the Q3 expense report has been received and will be reviewed by the end of the week. Sam's confirms the office move walkthrough at 10:00 and says a calendar invite will follow. Tomasz's draft says the budget must be checked first, and Ava's proposes talking next week.
+20. **Maya starts the move to the summary herself** with "Finish and view summary".
+21. **Sending a draft without editing it is allowed.** Editing is optional. Each send still needs its own explicit approval.
+22. **A sent draft is locked.** It cannot be edited or sent again.
+23. **After "Not now", Maya asks for access again herself.** The task screen keeps showing that access was denied, and its button reads "Request access again" instead of "Continue". The button opens the same access pop-up. Returning from "Not now" never sends a new request by itself, so the decision stays with Maya, and the button says what will happen before she clicks it.
 
 Also decided: no progressive autonomy in this prototype, because it is not needed to test the hypothesis.
