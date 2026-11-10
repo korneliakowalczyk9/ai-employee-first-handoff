@@ -15,15 +15,18 @@ One line each: the choice, then why.
 11. **Front-end only, scripted data, no AI backend.** It fits a small portfolio scope.
 12. **Reactions are captured in a short written debrief, with no in-app tracking.** Notes fit the hypothesis. We accept little numeric data.
 13. **The scene ends with a closing summary.** It says what the AI did, what it did not do, and what Maya still controls. It is neutral and makes no claim about draft quality.
-14. **Three visible AI stages (read, sort and flag, draft), at least four drafts, at least two sendable.** A second send can only be tested if there are two sendable drafts.
+14. **Three visible AI stages (read, sort and flag, draft), and exactly four drafts, two of them eligible for simulated sending.** A second send can only be tested if there are two sendable drafts.
 15. **The send recipient is a fictional colleague.** The AI never shares outside the company, so the send must not contradict that.
 16. **No generic "AI can make mistakes" line.** It would hint at the planted error and spoil the test.
-17. **Maya can press Continue after a stop.** Otherwise an early stop ends the scene before the draft and send, and we learn nothing.
+17. **Maya can press Continue after a stop, except in the last stage (see decision 18).** Otherwise an early stop ends the scene before the draft and send, and we learn nothing.
 18. **A stop in the last stage lets the work finish.** The results appear, nothing is sent and there is no Continue. This is an exception to the next-checkpoint rule in decision 10. The screen says so.
 19. **Only the replies to Lena and Sam can be sent.** Each one answers its request with a direct reply. Lena's says the Q3 expense report has been received and will be reviewed by the end of the week. Sam's confirms the office move walkthrough at 10:00 and says a calendar invite will follow. Tomasz's draft says the budget must be checked first, and Ava's proposes talking next week.
 20. **Maya starts the move to the summary herself** with "Finish and view summary".
 21. **Sending a draft without editing it is allowed.** Editing is optional. Each send still needs its own explicit approval.
 22. **A sent draft is locked.** It cannot be edited or sent again.
 23. **After "Not now", Maya asks for access again herself.** The task screen keeps showing that access was denied, and its button reads "Request access again" instead of "Continue". The button opens the same access pop-up. Returning from "Not now" never sends a new request by itself, so the decision stays with Maya, and the button says what will happen before she clicks it.
+24. **In the send dialogs, Authorise and Cancel have equal visual weight.** The dialog should not push Maya towards approving. Both buttons share the same size, border and text style.
+25. **"+ New task" is disabled and labelled "Not available in this prototype".** Only the triage task is built, and the sidebar must not suggest other working features.
+26. **On the first task screen, "Continue" opens the access pop-up.** This is separate from "Request access again", which is the button on the task screen after "Not now" (decision 23).
 
 Also decided: no progressive autonomy in this prototype, because it is not needed to test the hypothesis.

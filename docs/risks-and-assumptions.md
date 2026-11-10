@@ -1,14 +1,28 @@
 # Risks and Assumptions
 
-What we are unsure about. None of this is validated.
+None of this is validated by research.
 
-1. People may find it hard to move from chatting with AI to handing work over, and trust may be the main barrier. This is the core hypothesis.
-2. We suggest the task, so we do not test whether people know what to hand over. We accept this.
-3. Fake-looking drafts or a simulated inbox may break trust, or may not cause real-stakes reactions.
-4. The planted error may feel like a trick, or be too obvious or too subtle. We also assume a person who spots it blames the AI, not their own reading.
-5. People may skim the plan and log, so these controls become decoration.
-6. Without a nudge, many testers may never reach the send step.
-7. One single-use send may not feel like real delegation.
-8. A stop that is not instant may feel like losing control, even though the screen says so.
-9. We assume people understand edited drafts stay private until sent, and that fixing a draft makes them more willing to send.
-10. We do not rely on any real vendor's onboarding or internal workflows.
+## Assumptions
+
+Things we believe but have not tested.
+
+1. People who chat with AI find it hard to hand real work to an AI employee. Trust may be the main reason. This is the core hypothesis.
+2. It is fine to suggest the task for Maya. We do not test whether people know what to hand over. We accept this.
+3. A person who spots the planted error may blame the AI or may blame their own reading. We do not know which. The debrief should find out and not assume.
+4. People understand that an edited draft stays private until it is sent.
+5. Fixing a draft makes people more willing to send it and not less.
+
+## Risks
+
+Things that could go wrong in the prototype or in what we learn from it.
+
+1. The drafts or the simulated inbox look fake. That could break trust, or testers may not react as they would with real stakes.
+2. The planted error feels like a trick, or is too obvious or too subtle.
+3. People skim the plan and the log, so these controls become decoration.
+4. Without a nudge, many testers may never reach the send step. This is a testing risk and not a product defect. If nobody sends, that may be a meaningful result and not a reason to add a nudge.
+5. A single-use approval for each send may not feel like real delegation.
+6. A stop that is not instant may feel like losing control, even though the screen says so.
+
+## Ground rule
+
+This project does not rely on any real vendor's onboarding or internal workflows.
