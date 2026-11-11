@@ -6,7 +6,7 @@ Low-fidelity screens for the inbox triage scene, in step order. All names, compa
 
 | Folder | Version | What it is |
 |---|---|---|
-| [version-a/](version-a/README.md) | A | The approved wireframes, with no point-of-action labels. All 26 screens. |
+| [version-a/](version-a/README.md) | A | The baseline wireframes, with no point-of-action labels. All 26 screens. |
 | [version-b/](version-b/README.md) | B | The same screens with short authority labels added. Only the 15 screens that differ. |
 
 The two versions are compared in an exploratory [comparative study](../usability-test/comparative-study/README.md). The table below lists the Version A screens. The interaction notes after it apply to both versions.

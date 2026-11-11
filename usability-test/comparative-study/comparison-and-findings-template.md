@@ -8,14 +8,16 @@ Remember what the results can and cannot show. Six people, one scenario and a re
 
 ## 1. Participants and order
 
-| Participant | Version 1 (first) | Version 2 (second) | Notes on the session |
-|---|---|---|---|
-| P1 | A | B | |
-| P2 | B | A | |
-| P3 | A | B | |
-| P4 | B | A | |
-| P5 | A | B | |
-| P6 | B | A | |
+| Participant | Version 1 (first) | Version 2 (second) | Familiarity with conversational AI (their words, from the first observation sheet) | Notes on the session |
+|---|---|---|---|---|
+| P1 | A | B | | |
+| P2 | B | A | | |
+| P3 | A | B | | |
+| P4 | B | A | | |
+| P5 | A | B | | |
+| P6 | B | A | | |
+
+Use the familiarity column to account for differences in prior AI experience when you interpret the results, for example when one order group has more experienced participants than the other.
 
 ## 2. Knowledge check: answer key and scoring
 
@@ -27,10 +29,12 @@ Score after all sessions. One point for each correct answer. "Not sure" and blan
 | 2 | Sort the requests and flag the urgent ones | Aria does this on its own | On its own |
 | 3 | Write a draft reply that only you can see | Aria does this on its own | On its own |
 | 4 | Send a reply to a colleague | Aria needs my approval first | Needs approval |
-| 5 | Send a second reply after you approved the first | Aria needs my approval first | Needs approval |
+| 5 | Send a second reply without asking for my approval again | Aria needs my approval first, or Aria cannot do this (see note) | Needs approval |
 | 6 | Delete a request | Aria cannot do this | Cannot do |
 | 7 | Spend money | Aria cannot do this | Cannot do |
 | 8 | Share something outside the company | Aria cannot do this | Cannot do |
+
+Note on statement 5: it tests whether the participant understands that approval for the first reply does not authorise a second one. The statement describes Aria sending without asking again, so a participant who understands may answer either "Aria needs my approval first" or "Aria cannot do this". Score either as correct, record which was given, and count the statement in the "Needs approval" group.
 
 Record the score for each participant and each exposure.
 
@@ -55,7 +59,7 @@ Statements 6 to 8 (the things Aria cannot do) have no matching label in Version 
 
 ## 3. Ratings (stated opinion)
 
-Record the five ratings (1 to 5) for each participant and each exposure.
+Record the five ratings (1 to 5) for each participant and each exposure. The first-exposure ratings are the primary evidence. Do not present second-exposure ratings as independent measurements of the label effect, because they are influenced by the participant's earlier exposure to the other version.
 
 | Participant | Version | Exposure | R1 Allowed | R2 Approval | R3 Control | R4 Comfortable | R5 Clear steps |
 |---|---|---|---|---|---|---|---|
@@ -113,7 +117,7 @@ Participants 1, 3 and 5 saw A first. Participants 2, 4 and 6 saw B first. Each p
 | R5 Clear steps | | | |
 | Behaviour: approval questions, hesitation at Send, confusion points | | | |
 
-List the individual values. With three people per group, do not report averages as if they were precise.
+List the individual values. With three people per group, do not report averages as if they were precise, and do not present a simple Version 1 against Version 2 score as conclusive. Individual responses, explanations and observed behaviour matter most.
 
 ## 6. Secondary comparison: each person's A against B
 
@@ -222,7 +226,7 @@ Write the findings in plain sentences, for example: "In the first exposure, two 
 
 -
 
-Always include these limits: six participants, one scenario, learning from the repeated task, questionnaire priming from the questions after the first version and Version B adding more text than Version A.
+Always include these limits: six participants, one scenario, learning from the repeated task, questionnaire priming from the questions after the first version, Version B adding more text than Version A and Version B's results cards being 23 px taller. The study tests the label-and-presentation treatment as implemented and does not isolate the labels alone.
 
 ### Questions for a next round
 

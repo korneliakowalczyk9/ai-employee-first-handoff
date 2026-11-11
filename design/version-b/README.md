@@ -19,7 +19,7 @@ The labels are muted text in the same style as existing hint text, in fixed posi
 | Drafting screens | Drafts remain private |
 | Lena's and Sam's draft cards, next to Send | Approval required to send |
 
-"No changes to requests" means the original requests are not modified. Sorting and ranking still happen. "Approval required to send" shows only while a card's Send button is available.
+"No changes to requests" means the original requests are not modified. Sorting and ranking still happen. "Approval required to send" shows only on a card whose Send button is available. It disappears only from the card of the reply that has been sent. The other reply keeps its label until it is sent too, so nothing suggests that approval is no longer needed for an unsent reply.
 
 ## Screens that differ
 
@@ -45,6 +45,6 @@ Overview of all 26 Version B screens, including the 11 that are identical to Ver
 
 ## One layout consequence of the labels
 
-On the results screens, Lena's and Sam's cards each gain one muted line ("Approval required to send"), in the same position as the existing "Sending is not available for this draft." line on the other two cards. That is a height increase of one line, about 23 px. The results screens are 1253 px tall in Version B and 1230 px in Version A, and the content below the top row of cards moves down by the same amount. Nothing else on those screens changes.
+On the results screens, Lena's and Sam's cards each gain one muted line ("Approval required to send"), in the same position as the existing "Sending is not available for this draft." line on the other two cards. That is a height increase of one line, about 23 px. The results screens are 1253 px tall in Version B and 1230 px in Version A, and the content below the top row of cards moves down by the same amount. Nothing else on those screens changes. The comparative study cannot separate the labels from this height change.
 
 The other screens, including the first screen, the access pop-up, the edit screens and the summaries, are unchanged. They are in [design/version-a/](../version-a/).

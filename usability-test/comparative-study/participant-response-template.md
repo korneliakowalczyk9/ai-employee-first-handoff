@@ -6,6 +6,8 @@ Participant: P__  Date: ____________
 
 This form has no right or wrong answers. Please answer as you honestly see it. There is no answer key on this form.
 
+Please answer each section based on your own experience of the version you have just used. There are no preferred answers. You may select "Not sure" where appropriate.
+
 ---
 
 ## Section 1: After Version 1
@@ -20,14 +22,20 @@ For each statement, tick one box.
 | 2 | Sort the requests and flag the urgent ones | ☐ | ☐ | ☐ | ☐ |
 | 3 | Write a draft reply that only you can see | ☐ | ☐ | ☐ | ☐ |
 | 4 | Send a reply to a colleague | ☐ | ☐ | ☐ | ☐ |
-| 5 | Send a second reply after you approved the first | ☐ | ☐ | ☐ | ☐ |
+| 5 | Send a second reply without asking for my approval again | ☐ | ☐ | ☐ | ☐ |
 | 6 | Delete a request | ☐ | ☐ | ☐ | ☐ |
 | 7 | Spend money | ☐ | ☐ | ☐ | ☐ |
 | 8 | Share something outside the company | ☐ | ☐ | ☐ | ☐ |
 
 ### B. How did it feel?
 
-Write one number from 1 to 5 in the box for each statement. 1 means strongly disagree and 5 means strongly agree.
+Write one number from 1 to 5 in the box for each statement.
+
+- 1: Strongly disagree
+- 2: Disagree
+- 3: Neither agree nor disagree
+- 4: Agree
+- 5: Strongly agree
 
 | # | Statement | Your number (1 to 5) |
 |---|---|---|
@@ -61,14 +69,20 @@ Use exactly the same questions as Section 1. Answer for Version 2 only, as you s
 | 2 | Sort the requests and flag the urgent ones | ☐ | ☐ | ☐ | ☐ |
 | 3 | Write a draft reply that only you can see | ☐ | ☐ | ☐ | ☐ |
 | 4 | Send a reply to a colleague | ☐ | ☐ | ☐ | ☐ |
-| 5 | Send a second reply after you approved the first | ☐ | ☐ | ☐ | ☐ |
+| 5 | Send a second reply without asking for my approval again | ☐ | ☐ | ☐ | ☐ |
 | 6 | Delete a request | ☐ | ☐ | ☐ | ☐ |
 | 7 | Spend money | ☐ | ☐ | ☐ | ☐ |
 | 8 | Share something outside the company | ☐ | ☐ | ☐ | ☐ |
 
 ### B. How did it feel?
 
-Write one number from 1 to 5 in the box for each statement. 1 means strongly disagree and 5 means strongly agree.
+Write one number from 1 to 5 in the box for each statement.
+
+- 1: Strongly disagree
+- 2: Disagree
+- 3: Neither agree nor disagree
+- 4: Agree
+- 5: Strongly agree
 
 | # | Statement | Your number (1 to 5) |
 |---|---|---|

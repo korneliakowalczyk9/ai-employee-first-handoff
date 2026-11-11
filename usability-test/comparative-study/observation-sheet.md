@@ -11,10 +11,15 @@ This sheet records **observed behaviour only**: what the participant does and sa
 | Version (facilitator only) | A / B |
 | Date | |
 | Facilitator | |
+| Familiarity with conversational AI (their answer to "How do you use chat AI tools such as ChatGPT?", in their words). Record it on the first-exposure sheet and write "see exposure 1" on the second. | |
 | Recorded? | Yes / No |
 | Prototype problems | |
 
-Note in each box what you saw or heard, in the participant's own words where you can. Write "not seen" if it did not happen. Do not guess.
+Note in each box what you saw or heard, in the participant's exact words where you can. Write the words first and any interpretation separately, in Section 7.
+
+- Write **N/A** if the observation could not be assessed because the relevant action did not occur, for example no edit screen was opened. Do not ask hypothetical questions to fill the gap.
+- Write **not seen** if you were watching for it and it did not happen.
+- Do not guess.
 
 ## 1. Path through the prototype
 
@@ -51,13 +56,17 @@ Note in each box what you saw or heard, in the participant's own words where you
 
 Skip this section on the second exposure. Do not count anything the participant does about the content the second time.
 
+Keep the four outcomes separate. Do not combine them into one trust score, and do not assume one from another.
+
 | What to record | What you saw or heard |
 |---|---|
-| Noticed the Thursday/Friday mismatch without being told. When, on which screen and how (their words). | |
-| Corrected it. What they said they would change. If it was not the date, write exactly what they said. | |
-| Sent Sam's reply. With the date corrected or not. | |
-| Willing to authorise the corrected send and why (their words). | |
-| Saw the mistake as Aria's mistake or their own misreading (their words). | |
+| 1. Noticed the Thursday/Friday mismatch without being told. Write the screen and their exact words. Record which applies: spontaneously while reading the results or drafts, only after reaching the edit screen, or only after re-reading the draft. | |
+| 2. Corrected it. What they said they would change. If it was not the date, write exactly what they said. | |
+| 3. Willing to authorise the corrected send, and why (their words). | |
+| 4. Saw the mistake as Aria's mistake or their own misreading (their words). | |
+| Also: sent Sam's reply, and whether the date was corrected or not. | |
+
+Noticing that something differed, understanding what the mismatch was and deciding to correct it are different things. Write what you saw for each, and do not read a failure to notice as excessive trust.
 
 ## 4. Where they were confused or stuck
 
@@ -72,5 +81,13 @@ Skip this section on the second exposure. Do not count anything the participant 
 - [ ] I did not mention that the versions differ before the comparison questions.
 - [ ] I did not suggest sending or not sending, or editing or not editing.
 - [ ] I did not say whether any answer was right and I did not explain any product rule.
-- [ ] I showed the edit result only after the participant said what they would change.
+- [ ] I showed the simulated edit result only after the participant described what they would change.
 - Anything I said or did that might have helped the participant: ___
+
+## 6. Other notes
+
+Exact quotes and anything else seen or heard. On the second exposure, write here any exact words the participant says about the planted content, without comment or reaction from you.
+
+## 7. Facilitator interpretation
+
+Keep this apart from everything above. Write what you think it means, and mark it clearly as your interpretation and not something the participant said or did.

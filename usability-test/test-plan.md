@@ -4,6 +4,8 @@ A moderated test of the interactive Figma prototype with five participants. It c
 
 Everything in the prototype is fictional and simulated. The prototype is not a real AI employee.
 
+This plan is the source of the standard session procedure. The [comparative study](comparative-study/README.md) reuses it and adds its own materials. The two studies keep separate participants, observations and findings.
+
 ## Participants
 
 - Five adults who use chat AI tools such as ChatGPT.
@@ -27,6 +29,10 @@ Everything in the prototype is fictional and simulated. The prototype is not a r
 5. Is sending available without being pushed? Do they decide to send and why?
 6. If they use Stop or "Not now", do they understand what happens?
 
+## Before the introduction
+
+Ask: "How do you use chat AI tools such as ChatGPT?" Write the answer down in their own words and do not prompt further. This records their familiarity with conversational AI.
+
 ## Introduction (read aloud)
 
 "Thank you for helping. We are testing a design, not you. There are no right or wrong answers.
@@ -43,10 +49,10 @@ Then stop talking. Let the participant lead.
 
 ## While they work
 
-Allowed prompts, used only when the participant goes quiet:
-- "What are you thinking?"
-- "What do you expect to happen?"
-- "What would you do next?"
+Prompts, used only when the participant goes quiet:
+- "What are you thinking?" This is the standard prompt.
+- "What do you expect to happen?" Use it when the participant has just pressed or is about to press something.
+- "What would you do next?" Use it rarely. It can direct the participant towards an action.
 
 Do not:
 - say whether anything is right or wrong
@@ -60,13 +66,14 @@ Let the participant end the task. If they do not reach the summary on their own,
 
 ## After the task
 
-Ask in this order and write the answers down before moving on.
+Ask in this order and write the answers down in the participant's exact words before moving on.
 
 1. "How did that go?"
 2. "In your own words, what did Aria do for you?"
 3. "What did Aria not do, or not do without asking you?"
 4. "Was there a point where you felt unsure or wanted more information?"
 5. "Was there a point where you felt in control, or not in control?"
+6. "What would you change?"
 
 Only if the participant used them:
 - If they pressed Stop: "What did you expect when you pressed Stop?"
@@ -75,7 +82,7 @@ Only if the participant used them:
 - If they sent a reply: "What made you decide to send it?"
 - If they sent nothing: "What made you decide not to send anything?"
 
-Close with: "Is there anything you would change?" Thank the participant.
+Do not ask hypothetical questions to fill gaps. If an action did not happen, record N/A. Thank the participant.
 
 ## After each session
 
@@ -85,5 +92,9 @@ Fill in the note template in [observation-template.md](observation-template.md) 
 
 - Put the notes side by side.
 - Mark patterns seen in two or more participants.
+- Keep three things apart: what the participant did, what they said they understood or felt, and your own interpretation. Quote their exact words.
+- For the planted error, keep separate whether they noticed that something differed, whether they understood what the mismatch was, and whether they decided to correct it. Do not assume one from another.
+- Do not read a failure to notice the error as evidence of excessive trust. There are other explanations, such as not reading the draft closely or not seeing a reason to check it.
+- Keep the findings of this study separate from the findings of the comparative study.
 - Treat the results as questions for the next round. Five people do not give proof.
 - Review the results before deciding whether to build a coded prototype.
