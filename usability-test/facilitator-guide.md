@@ -2,7 +2,7 @@
 
 How to run a session with the interactive Figma prototype. Read this with [test-plan.md](test-plan.md). Record each session with [observation-template.md](observation-template.md).
 
-The prototype is a mock-up. It is not a real AI employee, and nothing in it is sent. The prototype link is shared by the project owner and is not stored in this repository.
+The prototype is a mock-up. It is not a real AI employee and it does not send any real messages. The Version A prototype link is in [comparative-study/README.md](comparative-study/README.md#prototypes).
 
 ## Before the first session: play it through once
 
@@ -12,7 +12,7 @@ The connections between screens were checked by reading them back from Figma. Th
 2. Let it run through sorting, drafting and the results, about 25 seconds.
 3. Press **R**. Stop at sorting, then check the paused screen, "Resume work", the results and the summary wording.
 4. Press **R**. Stop at drafting and check the results and the summary wording.
-5. On the results, scroll down. Open Sam's edit screen, press **F**, save, and check that Friday and the log line appear. Press **R** and try **O**.
+5. On the results, scroll down. Open Sam's edit screen, press **F**, save and check that Friday and the log line appear. Press **R** and try **O**.
 6. Send Sam. Check the preview, Escape and Cancel, then Authorise and the locked card.
 7. Send Lena and check the line that says the earlier approval does not carry over. Try the reverse order.
 8. Open the summary in each state. Press **R** to check the reset.
@@ -58,7 +58,7 @@ The edit box on Sam's edit screen updates to match whichever key you press.
 The prototype cannot take free typing, so you control what the edit shows.
 
 1. Do nothing until the participant opens an edit screen on their own.
-2. When they do, say only: "Please tell me out loud what you would change, and I will show you the result."
+2. When they do, say only: "Please tell me out loud what you would change and I will show you the result."
 3. Listen. Write down exactly what they say.
 4. If they say they would change the date to Friday, press **F**.
 5. If they describe any other change, or nothing, press **O**. Do not suggest anything else.

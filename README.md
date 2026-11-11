@@ -16,15 +16,15 @@ Someone who is familiar with tools like ChatGPT but has never delegated meaningf
 
 ## Current stage
 
-**Prototype design.** The brief, decisions and risks are written and low-fidelity wireframes of the scene are in `design/`. The next milestone is an interactive Figma prototype, followed by usability testing with five people. A coded prototype is on hold until the test results have been reviewed.
+**Ready for usability testing.** The brief, decisions and risks are written and low-fidelity wireframes of the scene are in `design/`. Two interactive Figma prototypes, Version A and Version B, are built and have passed their runtime checks. The next milestone is to run two studies: a general usability test with five participants and an exploratory comparison of the two versions with six participants. A coded prototype is on hold until the test results have been reviewed.
 
 ## Planned prototype
 
-An interactive Figma prototype of a small general AI employee workspace with one working scene, in which Maya delegates inbox triage (other tasks are not built): the AI sorts and flags requests and drafts replies. Everything stays private and read-only until Maya explicitly authorises a send. Either of two specific replies can be sent, and each needs its own separate approval. An approval covers that single action only.
+An interactive Figma prototype of a small general AI employee workspace with one working scene, in which Maya delegates inbox triage (other tasks are not built): the AI sorts and flags requests and drafts replies. Everything stays private and read-only until Maya explicitly authorises a send. Either of two specific replies can be sent and each needs its own separate approval. An approval covers that single action only.
 
-Control is shown through a plan before action, a visible activity log and a stop control. Sending cannot be undone, and the interface says so.
+Control is shown through a plan before action, a visible activity log and a stop control. Sending cannot be undone and the interface says so.
 
-![Wireframes overview](design/wireframes/00-overview.png)
+![Wireframes overview](design/version-a/00-overview.png)
 
 All wireframes are in [design/](design/README.md).
 
@@ -37,8 +37,8 @@ All people, companies and messages are fictional. Integrations and AI execution 
 - `docs/brief.md`: problem, user, the scene step by step, AI boundaries, scope
 - `docs/decisions.md`: product decisions and the reasoning behind them
 - `docs/risks-and-assumptions.md`: what is still unsure
-- `design/`: wireframes as images, with notes on how screens connect
-- `usability-test/`: test script, facilitator guide and note template
+- `design/`: wireframes as images (`version-a/` and `version-b/`), with notes on how screens connect
+- `usability-test/`: the general usability test (five people): test script, facilitator guide and note template. `comparative-study/` holds the A/B comparison (six people)
 - `prototype/`: code (on hold)
 
 ## Working principles

@@ -31,14 +31,14 @@ Tick what happened and add notes.
 
 Record each separately. Write "no" or "not seen" if it did not happen. Do not guess.
 
-| # | Observation | Seen? | When, and in their words |
+| # | Observation | Seen? | When and in their words |
 |---|---|---|---|
 | 1 | Noticed the Thursday/Friday error without being told | | |
 | 2 | Corrected it | | |
-| 3 | Was willing to authorise the corrected send, and why | | |
+| 3 | Was willing to authorise the corrected send and why | | |
 | 4 | Saw the error as the AI's mistake or their own misreading | | |
 
-For observation 1, note at which screen they noticed it, and whether it was unprompted. The facilitator must not have raised it.
+For observation 1, note at which screen they noticed it and whether it was unprompted. The facilitator must not have raised it.
 
 For observation 2, write what they said they would change. If it was not the date, write exactly what they said.
 

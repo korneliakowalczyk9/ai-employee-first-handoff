@@ -20,18 +20,18 @@ Everything in the prototype is fictional and simulated. The prototype is not a r
 
 ## What we want to learn
 
-1. Does the participant understand what the AI will do, and what it will not do?
+1. Does the participant understand what the AI will do and what it will not do?
 2. Is it clear what the AI can read?
 3. Can they follow what the AI is doing without a technical log?
-4. Do they notice the mistake in a draft without being told, and do they correct it?
-5. Is sending available without being pushed? Do they decide to send, and why?
+4. Do they notice the mistake in a draft without being told and do they correct it?
+5. Is sending available without being pushed? Do they decide to send and why?
 6. If they use Stop or "Not now", do they understand what happens?
 
 ## Introduction (read aloud)
 
 "Thank you for helping. We are testing a design, not you. There are no right or wrong answers.
 
-This is a mock-up of an AI employee called Aria. Nothing in it is real. No messages are sent, and the people and companies are made up.
+This is a mock-up of an AI employee called Aria. Nothing in it is real. No messages are sent and the people and companies are made up.
 
 Please think aloud: say what you are looking at, what you expect and what you are unsure about. I may not be able to answer questions while you work, but I will note them. Is it all right if we begin?"
 
@@ -60,7 +60,7 @@ Let the participant end the task. If they do not reach the summary on their own,
 
 ## After the task
 
-Ask in this order, and write the answers down before moving on.
+Ask in this order and write the answers down before moving on.
 
 1. "How did that go?"
 2. "In your own words, what did Aria do for you?"

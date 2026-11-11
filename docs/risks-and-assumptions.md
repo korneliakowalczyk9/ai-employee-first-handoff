@@ -11,7 +11,7 @@ Things we believe but have not tested.
 3. A person who spots the planted error may blame the AI or may blame their own reading. We do not know which. The debrief should find out and not assume.
 4. People understand that an edited draft stays private until it is sent.
 5. Fixing a draft makes people more willing to send it and not less.
-6. Five participants are enough to show the main problems in the flow.
+6. Five participants are enough to show the main problems in the flow. This is the general usability test.
 
 ## Risks
 
@@ -25,7 +25,8 @@ Things that could go wrong in the prototype or in what we learn from it.
 6. A stop that is not instant may feel like losing control, even though the screen says so.
 7. The facilitator controls the editing step, so how they run it could hint at the planted error or at the right correction.
 8. A Figma prototype only approximates real timing and cannot take free typing, so testers may notice they are using a mock-up.
-9. Five people give a few observations and not proof. Treat patterns as questions for the next round.
+9. Five people in the general test and six in the comparison give a few observations and not proof. Treat patterns as questions for the next round.
+10. In the comparison, six people who see both versions cannot separate the effect of the labels from learning, from the questions answered after the first version or from the extra text in Version B. The results are exploratory.
 
 ## Ground rule
 
