@@ -16,11 +16,11 @@ Someone who is familiar with tools like ChatGPT but has never delegated meaningf
 
 ## Current stage
 
-**Early design.** The brief, decisions and risks are written and low-fidelity wireframes of the scene are in `design/`. There is no prototype code yet.
+**Prototype design.** The brief, decisions and risks are written and low-fidelity wireframes of the scene are in `design/`. The next milestone is an interactive Figma prototype, followed by usability testing with five people. A coded prototype is on hold until the test results have been reviewed.
 
 ## Planned prototype
 
-A small general AI employee workspace with one working scene, in which Maya delegates inbox triage (other tasks are not built): the AI sorts and flags requests and drafts replies. Everything stays private and read-only until Maya explicitly authorises a send. Either of two specific replies can be sent, and each needs its own separate approval. An approval covers that single action only.
+An interactive Figma prototype of a small general AI employee workspace with one working scene, in which Maya delegates inbox triage (other tasks are not built): the AI sorts and flags requests and drafts replies. Everything stays private and read-only until Maya explicitly authorises a send. Either of two specific replies can be sent, and each needs its own separate approval. An approval covers that single action only.
 
 Control is shown through a plan before action, a visible activity log and a stop control. Sending cannot be undone, and the interface says so.
 
@@ -37,8 +37,9 @@ All people, companies and messages are fictional. Integrations and AI execution 
 - `docs/brief.md`: problem, user, the scene step by step, AI boundaries, scope
 - `docs/decisions.md`: product decisions and the reasoning behind them
 - `docs/risks-and-assumptions.md`: what is still unsure
-- `design/`: wireframes as images
-- `prototype/`: code (empty for now)
+- `design/`: wireframes as images, with notes on how screens connect
+- `usability-test/`: test script, facilitator guide and note template
+- `prototype/`: code (on hold)
 
 ## Working principles
 
@@ -46,5 +47,5 @@ All people, companies and messages are fictional. Integrations and AI execution 
 - The project was developed with AI assistance. Product decisions are mine.
 - Hypotheses are not treated as established user needs.
 - Important decisions and their reasoning are recorded in `docs/decisions.md`; uncertainties in `docs/risks-and-assumptions.md`.
-- The prototype stays deliberately small: front-end only, with no authentication, databases or external integrations unless explicitly approved.
+- The prototype stays deliberately small: scripted data, with no authentication, databases or external integrations unless explicitly approved.
 - Simulated functionality is clearly distinguished from real integrations and AI execution and the prototype is never presented as a production-ready AI employee.

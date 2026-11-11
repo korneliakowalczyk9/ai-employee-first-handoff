@@ -11,6 +11,7 @@ Things we believe but have not tested.
 3. A person who spots the planted error may blame the AI or may blame their own reading. We do not know which. The debrief should find out and not assume.
 4. People understand that an edited draft stays private until it is sent.
 5. Fixing a draft makes people more willing to send it and not less.
+6. Five participants are enough to show the main problems in the flow.
 
 ## Risks
 
@@ -22,6 +23,9 @@ Things that could go wrong in the prototype or in what we learn from it.
 4. Without a nudge, many testers may never reach the send step. This is a testing risk and not a product defect. If nobody sends, that may be a meaningful result and not a reason to add a nudge.
 5. A single-use approval for each send may not feel like real delegation.
 6. A stop that is not instant may feel like losing control, even though the screen says so.
+7. The facilitator controls the editing step, so how they run it could hint at the planted error or at the right correction.
+8. A Figma prototype only approximates real timing and cannot take free typing, so testers may notice they are using a mock-up.
+9. Five people give a few observations and not proof. Treat patterns as questions for the next round.
 
 ## Ground rule
 
