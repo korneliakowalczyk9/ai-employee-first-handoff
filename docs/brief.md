@@ -89,12 +89,14 @@ Maya's first task: sort this week's requests, flag the urgent ones and draft rep
 
 ## What we want to observe (written debrief)
 
-Two moderated studies use the Figma prototype. Five people take part in the general usability test and six people take part in the comparison of two versions. The facilitator writes a short note after each session. No tracking in the prototype. The materials for the general test are in `usability-test/` and the materials for the comparison are in `usability-test/comparative-study/`. In the comparison, each person sees both versions and all four planted-error observations below count only on their first version. Record these separately:
+Two remote, unmoderated studies use the Figma prototype: a general usability test with five people and a comparison of two versions with six people. Participants work alone, answer an online questionnaire and may choose to send a screen recording. The procedure, the evidence rules and the limitations are in [usability-test/test-plan.md](../usability-test/test-plan.md). In the comparison, each person sees both versions and all four planted-error observations below count only on their first version. Record these separately:
 
 1. Did Maya notice the Thursday/Friday error?
-2. Did she correct it?
+2. Did she act on it?
 3. Was she willing to authorise the corrected send and why?
 4. If Maya notices the planted error, does she see it as the AI's mistake or her own misreading?
+
+The prototype cannot demonstrate a successful correction. Item 2 is recorded as what the participant says they would change, whether they opened the edit screen and whether they attempted to save. Item 3 is recorded as whether Sam's reply was sent unchanged, and the participant's explanation. A failure to notice the error is not read as evidence of excessive trust.
 
 Also record:
 - Did she reach the send step on her own?

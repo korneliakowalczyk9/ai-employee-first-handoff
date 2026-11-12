@@ -23,10 +23,14 @@ Things that could go wrong in the prototype or in what we learn from it.
 4. Without a nudge, many testers may never reach the send step. This is a testing risk and not a product defect. If nobody sends, that may be a meaningful result and not a reason to add a nudge.
 5. A single-use approval for each send may not feel like real delegation.
 6. A stop that is not instant may feel like losing control, even though the screen says so.
-7. The facilitator controls the editing step, so how they run it could hint at the planted error or at the right correction.
+7. In moderated sessions the facilitator controls the editing step, so how they run it could hint at the planted error or at the right correction. The remote studies have no facilitator.
 8. A Figma prototype only approximates real timing and cannot take free typing, so testers may notice they are using a mock-up.
 9. Five people in the general test and six in the comparison give a few observations and not proof. Treat patterns as questions for the next round.
 10. In the comparison, six people who see both versions cannot separate the effect of the labels from learning, from the questions answered after the first version or from the extra text in Version B. The results are exploratory.
+
+11. In remote, unmoderated testing there is no live observation and no neutral follow-up, so what participants say they did can differ from what they did. See the [test plan](../usability-test/test-plan.md#limitations-of-unmoderated-remote-testing).
+12. Optional screen recordings give behavioural evidence only for the participants who choose to record, who may differ from the others, and they show the screen and not what a participant noticed or thought.
+13. The prototype cannot demonstrate a successful correction, so the studies cannot record a completed correction or willingness to send a corrected draft. Figma's own viewer may also have shortcuts that cannot be removed (decision 39). The project owner checked both prototypes in the Figma viewer on 2026-11-12 and reported no problems.
 
 ## Ground rule
 
