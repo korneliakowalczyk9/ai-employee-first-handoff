@@ -24,7 +24,7 @@ This is a question, not a prediction. "No difference" and "worse" are acceptable
 | Upfront explanation | Yes. Limits are on the first screen and the access pop-up and send dialog explain approval | Yes, identical |
 | Labels at the point of action | None | Yes, listed below |
 
-Version A is the existing screens in `design/version-a/` and the existing Figma prototype. Version B is in `design/version-b/` and in a separate Figma prototype. Both are Figma research prototypes. They are separate from the coded Version A prototype, which is not part of the studies.
+Version A is the existing screens in `design/version-a/` and the existing Figma prototype. Version B is in `design/version-b/` and in a separate Figma prototype. Both are Figma research prototypes.
 
 ### Labels in Version B
 

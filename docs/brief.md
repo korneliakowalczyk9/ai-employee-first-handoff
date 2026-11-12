@@ -1,6 +1,6 @@
 # Brief: AI Employee First Handoff
 
-A small portfolio project: an interactive Figma prototype of a general AI employee workspace, where the AI can take many kinds of tasks. The prototype has one short scripted scene: inbox triage. It will be tested in two studies: a general usability test with five people and an exploratory comparison of two versions with six people. A coded prototype is on hold until those results have been reviewed. Everything is fictional and simulated. A "Simulation" label stays visible on every screen.
+A small portfolio project: an interactive Figma prototype of a general AI employee workspace, where the AI can take many kinds of tasks. The prototype has one short scripted scene: inbox triage. It will be tested in two studies: a general usability test with five people and an exploratory comparison of two versions with six people. Everything is fictional and simulated. A "Simulation" label stays visible on every screen.
 
 The screens share one simple frame: a sidebar with a task list and a "New task" entry and a top bar with the AI employee's name (Aria, fictional). Only the triage task works. The "New task" entry is disabled and labelled "Not available in this prototype".
 
@@ -79,7 +79,6 @@ Maya's first task: sort this week's requests, flag the urgent ones and draft rep
 ## Out of scope
 
 - Real AI, real email or any real connection.
-- A coded prototype. It is on hold until the Figma prototype has been tested.
 - Logins, databases, teams or admin use.
 - A permissions dashboard or extra confirmation screens.
 - The AI earning more freedom over time.

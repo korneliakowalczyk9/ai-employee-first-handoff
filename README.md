@@ -16,7 +16,7 @@ Someone who is familiar with tools like ChatGPT but has never delegated meaningf
 
 ## Current stage
 
-**Ready for usability testing.** The brief, decisions and risks are written and low-fidelity wireframes of the scene are in `design/`. Two interactive Figma prototypes, Version A and Version B, are built and have passed their runtime checks. The next milestone is to run two remote, unmoderated studies: a general usability test with five participants and an exploratory comparison of the two versions with six participants. The studies use the Figma prototypes only. A separate coded Version A prototype exists outside this repository and is not part of the studies.
+**Ready for usability testing.** The brief, decisions and risks are written and low-fidelity wireframes of the scene are in `design/`. Two interactive Figma prototypes, Version A and Version B, are built and have passed their runtime checks. The next milestone is to run two remote, unmoderated studies: a general usability test with five participants and an exploratory comparison of the two versions with six participants.
 
 ## Planned prototype
 
@@ -39,7 +39,6 @@ All people, companies and messages are fictional. Integrations and AI execution 
 - `docs/risks-and-assumptions.md`: what is still unsure
 - `design/`: wireframes as images (`version-a/` and `version-b/`), with notes on how screens connect
 - `usability-test/`: the remote, unmoderated general usability test (five people): test plan (including how to run the studies), evidence record, questionnaire wording and participant-facing instructions. `comparative-study/` holds the A/B comparison (six people)
-- `prototype/`: placeholder. The coded Version A prototype is kept outside this repository
 
 ## Working principles
 

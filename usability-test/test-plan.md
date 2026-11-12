@@ -211,7 +211,6 @@ Review a recording only for what the screen shows, and note the time of each imp
 3. Do not read a failure to notice the error as evidence of excessive trust. There are other explanations, such as not reading the draft closely or not seeing a reason to check it.
 4. Comparative study: after the sixth participant, complete the findings template. Compare first exposures first. Read second-exposure results as affected by learning and questionnaire priming.
 5. Keep the findings of the two studies separate. Treat the results as questions for the next round. Five or six people do not give proof.
-6. Review the results before deciding whether to build a coded prototype.
 
 ## Decisions before recruiting
 
